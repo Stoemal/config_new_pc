@@ -1,6 +1,7 @@
 Software to install:
 
 - `firefox`
+- `chrome`
 - `thunderbird`
 - `spotify`
 - `helix`
